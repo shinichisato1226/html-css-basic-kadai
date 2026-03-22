@@ -52,32 +52,21 @@ position: absolute;
   height: 300px;
   margin: auto;
   background-color: #87ceeb;
+  display: block;
 }
 
-#bottom-child01 {
+#bottom-child01 ,#bottom-child02 ,#bottom-child03{
   width: 400px;
   height: 100px;
   background-color: #e5dcf0;
 }
 
 #bottom-child02 {
-  width: 400px;
-  height: 100px;
-  background-color: #e5dcf0;
   position: relative;
   left: 200px;
 }
 #bottom-child03 {
-  width: 400px;
-  height: 100px;
-  background-color: #e5dcf0;
   position: relative;
   left: 400px;
 }
-#bottom-child03 {
-  width: 400px;
-  height: 100px;
-  background-color: #e5dcf0;
-  position: relative;
-  left: 400px;
 }
