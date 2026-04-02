@@ -68,9 +68,12 @@ footer {
 footer a {
     color: rgb(255, 255, 255);
 }
-footer :hover {
+footer a:hover {
     color:rgb(245, 178, 168);
 }
+
+footer a:visit {
+    color:rgb(193, 234, 251);
 
 @media (max-width:768px){
 h2 {
